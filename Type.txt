@@ -1,0 +1,2 @@
+Type: Normal WeakTo: Fighting ResistantAgainst: none UnaffectedBy: Ghost StrongAgainst: none
+Type: Flying WeakTo: Electric/Ice/Rock ResistantAgainst: Fighting/Grass/Bug StrongAgainst: Grass/Bug/Fighting UnaffectedBy: Ground

@@ -1,0 +1,8 @@
+Pokemon: Pidgey Type(s): Flying/Normal HP: 40 Atk: 45 Def: 40 SAtk: 35 SDef: 35 Speed: 56
+Pokemon: Rattata Type(s): Normal HP: 30 Atk: 56 Def: 35 SAtk: 25 SDef: 35 Speed: 72
+Pokemon: Bulbasaur Type(s): Grass/Poison HP: 45 Atk: 49 Def: 49 SAtk: 65 SDef: 65 Speed: 45
+Pokemon: Tepig     Type(s): Fire HP: 65 Atk: 63 Def: 45 SAtk: 45 SDef: 45 Speed: 45
+Pokemon: Mareep Type(s): Electric HP: 55 Atk: 40 Def: 40 SAtk: 65 SDef: 45 Speed: 35
+Pokemon: Horsea Type(s): Water HP: 30 Atk: 40 Def: 70 SAtk: 70 SDef: 25 HP: 60
+Pokemon: Pinsir Type(s): Bug HP: 65 Atk: 125 Def: 100 SAtk: 55 SDef: 70 Speed: 85
+Pokemon: Sandshrew Type(s): Ground HP: 50 Atk: 75 Def: 85 SAtk: 20 SDef: 30 Speed: 40
